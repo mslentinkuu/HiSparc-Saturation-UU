@@ -1,5 +1,6 @@
 # HiSparc-UU Calibration
 Part of bachelor thesis by Martin Sven Lentink
+
 Supervisor: Dr. A. (AG) Grelli
 
 This repository consists of two folders: Scientific Part and Educational Part. 
